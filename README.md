@@ -1,4 +1,4 @@
-# project-commit-scraper
+# commitment
 For school based projects, to determine the total number of contributions as commits by project members in a repository.
 
 # Config
